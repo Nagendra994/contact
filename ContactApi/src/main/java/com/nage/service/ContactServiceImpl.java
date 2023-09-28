@@ -25,13 +25,12 @@ public class ContactServiceImpl implements ContactSservice {
 
 	@Override
 	public Contact getContactByID(Integer contactId) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
 	@Override
 	public Contact deleteContacById(Integer contactId) {
-		// TODO Auto-generated method stub
+
 		return null;
 	}
 
