@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor
-@NoArgsConstructor
 @Table(name = "Contact_details")
 public class Contact {
 	@Id
